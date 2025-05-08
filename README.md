@@ -19,4 +19,4 @@ cuerpo de las personas invidentes y trabajaran con un conjunto de sensores de pr
 y mandaran una alerta cuando alg ́un objeto u obst ́aculo se encuentre cerca y la persona y
 as ́ı evitar accidentes.
 
-[ARTIFICIAL VISION](https://url-del-enlace.com)
+[ARTIFICIAL VISION](https://github.com/FrixTel/ArtificialVision/blob/main/ARTIFICIAL_VISION.pdf)
