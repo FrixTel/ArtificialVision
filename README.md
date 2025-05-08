@@ -1,22 +1,14 @@
-# ArtificialVision
-Proyecto Integrador 
+# ArtificialVision  
+**Proyecto Integrador**
 
+## **Resumen**
 
-**Resumen**
+Este proyecto se centra en la investigación y desarrollo de posibles soluciones tecnológicas que contribuyan a mejorar la calidad de vida de las personas con discapacidad visual.
 
-Este proyecto se centra en la investigaci ́on y posibles soluciones, de mejoras para ayudar
-a personas con discapacidad visual.
-El objetivo principal de nuestro proyecto es la inclusi ́on social de las personas invidentes,
-mediante la aplicaci ́on de tecnolog ́ıas y de esta forma ayudar a que las personas con esta
+El objetivo principal es fomentar la inclusión social de personas invidentes mediante la aplicación de tecnologías que les permitan una mayor independencia en su desplazamiento dentro del entorno en el que viven.
 
-discapacidad puedan ser m ́as independientes al momento de su desplazamiento en el en-
-torno en el que viven.
+Para lograrlo, se plantea el desarrollo de un dispositivo denominado **Artificial Vision**, el cual consistirá en un conjunto de bandas colocadas estratégicamente en el cuerpo del usuario. Estas bandas estarán equipadas con sensores de proximidad que detectarán la presencia de objetos u obstáculos cercanos, enviando alertas inmediatas a la persona para prevenir accidentes.
 
-Esto se lograra mediante el desarrollo de un dispositivo que ayude a personas con disca-
-pacidad visual, ARTIFICIAL VISION; ser ́a un conjunto de bandas que se colocaran en el
+Este sistema busca ser una herramienta de apoyo eficaz, segura y accesible para las personas con discapacidad visual.
 
-cuerpo de las personas invidentes y trabajaran con un conjunto de sensores de proximidad
-y mandaran una alerta cuando alg ́un objeto u obst ́aculo se encuentre cerca y la persona y
-as ́ı evitar accidentes.
-
-[ARTIFICIAL VISION](https://github.com/FrixTel/ArtificialVision/blob/main/ARTIFICIAL_VISION.pdf)
+📄 [Ver documento completo del proyecto: ARTIFICIAL VISION (PDF)](https://github.com/FrixTel/ArtificialVision/blob/main/ARTIFICIAL_VISION.pdf)
