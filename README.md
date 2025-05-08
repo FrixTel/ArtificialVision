@@ -13,4 +13,4 @@ Este sistema busca ser una herramienta de apoyo eficaz, segura y accesible para 
 
 📄 [Ver documento completo del proyecto: ARTIFICIAL VISION (PDF)](https://github.com/FrixTel/ArtificialVision/blob/main/ARTIFICIAL_VISION.pdf)
 
-![Texto alternativo](https://ejemplo.com/tu-imagen.jpg)
+![LOGO](https://github.com/FrixTel/ArtificialVision/blob/main/VISION.jfif)
